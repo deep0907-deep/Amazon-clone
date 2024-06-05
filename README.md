@@ -5,7 +5,7 @@
 
 - 👨‍💻 My projects [https://deep0907-deep.github.io/Amazon-clone/](https://deep0907-deep.github.io/Amazon-clone/)
 
-- 💬 Ask me about **HTML5, CSS, Python, JavaS**
+- 💬 Ask me about **HTML5, CSS, Python, JS**
 
 - 📫 How to reach me **pateldeep6277@gmail.com**
 
